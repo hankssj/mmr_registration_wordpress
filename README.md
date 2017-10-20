@@ -1,0 +1,1 @@
+# mmr_registration_wordpress
